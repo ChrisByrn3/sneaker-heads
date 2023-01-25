@@ -25,3 +25,51 @@ Images:
 - "https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg"
     - (You may use any image you would like for the background!)
 */
+body{
+    background-image: url("https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg");
+background-size: cover;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    padding: 1px 100px;
+    color: blueviolet;
+    text-shadow: 2px 2px yellow;
+    border-radius: 5px;
+    background: red;
+    width: 400px;
+    margin: 10px 500px 20px;
+}
+#row2{
+    margin: 10px 700px 20px;
+  font-size: 20px;
+}
+#row2-section2{
+    width: 600px;
+  height: 75px;
+  background: red;
+  color: white;
+  border-radius: 5px 5px;
+  margin: 1px;
+  text-align: left;
+  padding: 0px 0px 10px 10px;
+}
+img{
+    border-radius: 5px 5px;
+    height: 300px;
+    width: 600px;
+}
+#row1{
+    margin: 10px 300px 20px;
+    font-size: 20px; 
+}
+#row1-section2{
+    width: 600px;
+  height: 75px;
+  background: rgb(31, 98, 198);
+  color: white;
+  border-radius: 5px 5px;
+  padding: 0px 0px 10px 10px
+}
